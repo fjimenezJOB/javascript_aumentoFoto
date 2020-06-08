@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# Script para practicar la modificacion de elementos del HTML
+Crear una imagen en la web que cuando le demos click augmente y si le vuelves a dar disminuye de nuevo.
